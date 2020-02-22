@@ -1,0 +1,4 @@
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Sql.Db.Repository\bin\Debug\netstandard2.0\Sql.Db.Repository.deps.json
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Sql.Db.Repository\bin\Debug\netstandard2.0\Sql.Db.Repository.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Sql.Db.Repository\obj\Debug\netstandard2.0\Sql.Db.Repository.AssemblyInfoInputs.cache
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Sql.Db.Repository\obj\Debug\netstandard2.0\Sql.Db.Repository.AssemblyInfo.cs

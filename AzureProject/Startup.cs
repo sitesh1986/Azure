@@ -10,6 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Models;
+using Microsoft.EntityFrameworkCore;
+using Manager.Repository.Manager;
+using GraphApi;
 
 namespace AzureProject
 {
@@ -26,6 +30,12 @@ namespace AzureProject
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<Context>(option =>
+            {
+                option.UseSqlServer(Configuration.GetConnectionString("connectionString"));
+            });
+            services.AddSingleton<GraphUserManager>();
+            services.AddSingleton<B2CGraphClient>(new B2CGraphClient("2b34c559-5fbe-4248-ad52-a7e03c47c194", "GE@MZpyrD5Teg.ttg6@XjXmejTNH?i08", "cldtestsid.onmicrosoft.com"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,7 +47,7 @@ namespace AzureProject
             }
 
             app.UseHttpsRedirection();
-
+            App_Start.ModelMapper.Intialize();
             app.UseRouting();
 
             app.UseAuthorization();

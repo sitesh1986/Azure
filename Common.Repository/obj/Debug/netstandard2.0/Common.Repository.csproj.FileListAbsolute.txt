@@ -1,0 +1,8 @@
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\bin\Debug\netstandard2.0\Common.Repository.deps.json
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\bin\Debug\netstandard2.0\Common.Repository.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\bin\Debug\netstandard2.0\Common.Repository.pdb
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\obj\Debug\netstandard2.0\Common.Repository.csprojAssemblyReference.cache
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\obj\Debug\netstandard2.0\Common.Repository.AssemblyInfoInputs.cache
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\obj\Debug\netstandard2.0\Common.Repository.AssemblyInfo.cs
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\obj\Debug\netstandard2.0\Common.Repository.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\Common.Repository\obj\Debug\netstandard2.0\Common.Repository.pdb
