@@ -34,8 +34,12 @@ namespace AzureProject
             {
                 option.UseSqlServer(Configuration.GetConnectionString("connectionString"));
             });
+            services.AddSingleton<IConfiguration>();
             services.AddSingleton<GraphUserManager>();
-            services.AddSingleton<B2CGraphClient>(new B2CGraphClient("2b34c559-5fbe-4248-ad52-a7e03c47c194", "GE@MZpyrD5Teg.ttg6@XjXmejTNH?i08", "cldtestsid.onmicrosoft.com"));
+            services.AddSingleton<B2CGraphClient>(new B2CGraphClient
+                (Configuration["B2C:ClientId"],
+                 Configuration["B2C:ClientSecret"],
+                Configuration["B2c:Tenant"]));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
