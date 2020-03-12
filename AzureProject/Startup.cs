@@ -34,12 +34,13 @@ namespace AzureProject
             {
                 option.UseSqlServer(Configuration.GetConnectionString("connectionString"));
             });
-            services.AddSingleton<IConfiguration>();
+          
             services.AddSingleton<GraphUserManager>();
             services.AddSingleton<B2CGraphClient>(new B2CGraphClient
                 (Configuration["B2C:ClientId"],
                  Configuration["B2C:ClientSecret"],
                 Configuration["B2c:Tenant"]));
+            services.AddApplicationInsightsTelemetry();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

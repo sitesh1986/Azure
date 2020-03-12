@@ -170,4 +170,19 @@ C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\obj\Debug\netcor
 C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Common.Repository.dll
 C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Common.Repository.pdb
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Connected Services\Application Insights\ConnectedService.json
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Users\SiteshKumar\git hub\AllAzure\AzureProject\AzureProject\obj\Debug\netcoreapp3.1\AzureProject.MvcApplicationPartsAssemblyInfo.cache
